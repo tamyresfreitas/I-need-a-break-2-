@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>68632C76-B930-48F7-BAC7-8FA21AB88A31</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Break</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40668CF29975373CB7FC615E706F330A57EC50C9</key>
+		<string>https://github.com/biamx3/Break.git</string>
+		<key>C5178FF2D4CDE3B096D997587E6C2D0E2E450E6D</key>
+		<string>https://github.com/hugocm93/Break.git</string>
+		<key>C94823FDD7D1870038ECD04FED0395FFD7A1A8BF</key>
+		<string>https://github.com/hugocm93/Break2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Break.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40668CF29975373CB7FC615E706F330A57EC50C9</key>
+		<string>../../../Break</string>
+		<key>C5178FF2D4CDE3B096D997587E6C2D0E2E450E6D</key>
+		<string>../../..</string>
+		<key>C94823FDD7D1870038ECD04FED0395FFD7A1A8BF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hugocm93/Break2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C94823FDD7D1870038ECD04FED0395FFD7A1A8BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C5178FF2D4CDE3B096D997587E6C2D0E2E450E6D</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40668CF29975373CB7FC615E706F330A57EC50C9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Break</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C94823FDD7D1870038ECD04FED0395FFD7A1A8BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Break2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

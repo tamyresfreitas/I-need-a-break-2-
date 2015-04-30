@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home</key>
+	<dict>
+		<key>10</key>
+		<dict>
+			<key>p</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Hug the first person you see.</string>
+					<key>img</key>
+					<string>Hug.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Extra points if you do it weirdly.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>High five the person closest to you. </string>
+					<key>img</key>
+					<string>HiFive.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Let us hear that glorious &quot;slap&quot; sound!  </string>
+				</dict>
+                <dict>
+                    <key>title</key>
+                    <string>Tell the following joke:</string>
+                    <key>img</key>
+                    <string>telljk.png</string>
+                    <key>tipo</key>
+                    <integer>1</integer>
+                    <key>descricao</key>
+                    <string>We don&apos;t care how bad it sounds. Just do it.</string>
+                </dict>
+				<dict>
+					<key>title</key>
+					<string>Have a thumb war with the person closest to you</string>
+					<key>img</key>
+					<string>ThumbWar.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Usually we&apos;re quite against wars, but in this case we made an exception.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Sit outside the room and meditate for  5 minutes</string>
+					<key>img</key>
+					<string>Meditate.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Oooooooommmm your way out of your worries.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go out into the sun</string>
+					<key>img</key>
+					<string>Sunbathing.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Pretend you&apos;re a plant and get some photossynthesis action.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and smell some flowers</string>
+					<key>img</key>
+					<string>SmellFlowers.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You&apos;re welcome, nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Do a handstand</string>
+					<key>img</key>
+					<string>Handstand.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If that doesn&apos;t get your ideas flowing, we don&apos;t know what will.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Do the following yoga pose (child&apos;s pose)</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/V22xxybieHk</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>C&apos;mon. If even kids can do it you have no excuse not to.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Do the following yoga pose (pidgeon&apos;s pose)</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/FVlX5HNKamw</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>Extra points if you&apos;re wearing grey.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Walk down a set of stairs(and make a different sound with every step)</string>
+					<key>img</key>
+					<string>Stairs.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>House suggestions: WEE OOH! WEE OH! WEE OOH!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Lie down on the ground and stretch your arms and legs as far as you can </string>
+					<key>img</key>
+					<string>Stretch.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If you&apos;re not grunting, you&apos;re doing it wrong.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+                    <string>Go to youtube and sing a karaoke of the following song:</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/siu1f5bVf2I</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>You do it in the shower, why not here?</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Give yourself a handmassage</string>
+					<key>img</key>
+					<string>Handmassage.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>We&apos;d tell you to ask someone else for it, but even we acknowledge that&apos;d be awkward.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Watch this rollercoaster video and pretend you&apos;re riding it</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/kS64P0y9YOw</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>Don&apos;t forget your seat belt!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Record your quirkiest laugh on your phone</string>
+					<key>img</key>
+					<string>RecordLaugh.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>And then laugh at it.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Drip cold water on your wrists and behind your earlobes</string>
+					<key>img</key>
+					<string>ColdWater.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>The colder the better.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Make funny faces at the mirror</string>
+					<key>img</key>
+					<string>FunnyFaces.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If you don&apos;t feel gorgeous afterwards, you&apos;re doing them wrong.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Learn how to say and pronounce &quot;Hello, how are you?&quot; in japanese</string>
+					<key>img</key>
+					<string>Japanese.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Don&apos;t forget to try it out on someone.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a story for the characters in this famous painting.</string>
+					<key>img</key>
+					<string>StoryImage.jpg</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Make it dramatic with lots of pzzaaz.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Identify images inside this abstract painting.</string>
+					<key>img</key>
+					<string>AbstractPainting.jpg</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Go crazy! The more you find, the better.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Take a toe tapping break</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/m0uiA6UITDw</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>Watch the video with a friend and toe tap each other to your heart's content.'</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Draw a letter in the air and say its corresponding number</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/ICxsQuoK_94</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>Reach the letter H and we'll worship you forever!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Get a super rad temp tattoo</string>
+					<key>img</key>
+					<string>DrawHand.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>And by that, we mean doodle on your hand. Make it pretty!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Blow a bubble with chewing gum</string>
+					<key>img</key>
+					<string>GumBubble.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Careful not to get gum on your nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Write a poem of 4 lines</string>
+					<key>img</key>
+					<string>poem.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Beware: line one and line 3 must rime!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+			<key>np</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Eat something red.</string>
+					<key>img</key>
+					<string>RedFood.png
+</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Extra points if it grows on a tree.
+</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Blow a bubble with chewing gum</string>
+					<key>img</key>
+					<string>GumBubble.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Careful not to get gum on your nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Write a poem of 4 lines</string>
+					<key>img</key>
+					<string>poem.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Beware: line one and line 3 must rime!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>p</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Find at least one object in your house that you don&apos;t need anymore and give it away</string>
+					<key>img</key>
+					<string>packrat.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Enough pack-ratting! </string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+                    <dict>
+                        <key>title</key>
+                        <string>Make an origami</string>
+                        <key>img</key>
+                        <string>https://www.youtube.com/embed/A8EyLFWXV_0</string>
+                        <key>tipo</key>
+                        <integer>0</integer>
+                        <key>descricao</key>
+                        <string>Leave it on someone&apos;s desk for extra points!</string>
+                    </dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and hug a tree</string>
+					<key>img</key>
+					<string>hugtrees.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If the hippies felt great doing it, why not you?</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Find a dog and pet it</string>
+					<key>img</key>
+					<string>petdogs.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You pet that puppy real good. FEEL the furryness!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and smell some flowers</string>
+					<key>img</key>
+					<string>flowers.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You&apos;re welcome, nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go out into the sun</string>
+					<key>img</key>
+					<string>sunlight.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Pretend you&apos;re a plant and get some crazy photossynthesis action.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+			<key>np</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Find at least one object in your house that you don&apos;t need anymore and give it away</string>
+					<key>img</key>
+					<string>packrat.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Enough pack-ratting! </string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Make an origami</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/A8EyLFWXV_0</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>Leave it on someone&apos;s desk for extra points!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and hug a tree</string>
+					<key>img</key>
+					<string>hugtrees.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If the hippies felt great doing it, why not you?</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Find a dog and pet it</string>
+					<key>img</key>
+					<string>petdogs.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You pet that puppy real good. FEEL the furryness!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and smell some flowers</string>
+					<key>img</key>
+					<string>flowers.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You&apos;re welcome, nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go out into the sun</string>
+					<key>img</key>
+					<string>sunlight.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Pretend you&apos;re a plant and get some crazy photossynthesis action.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>work</key>
+	<dict>
+		<key>10</key>
+		<dict>
+			<key>p</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Hug the first person you see.</string>
+					<key>img</key>
+					<string>Hug.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Extra points if you do it weirdly.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>High five the person closest to you. </string>
+					<key>img</key>
+					<string>HiFive.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Let us hear that glorious &quot;slap&quot; sound!  </string>
+				</dict>
+                <dict>
+                    <key>title</key>
+                    <string>Tell the following joke:</string>
+                    <key>img</key>
+                    <string>telljk.png</string>
+                    <key>tipo</key>
+                    <integer>1</integer>
+                    <key>descricao</key>
+                    <string>We don&apos;t care how bad it sounds. Just do it.</string>
+                </dict>
+				<dict>
+					<key>title</key>
+					<string>Have a thumb war with the person closest to you</string>
+					<key>img</key>
+					<string>ThumbWar.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Usually we&apos;re pretty against wars, but in this case we made an exception.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Sit outside the room and meditate for  5 minutes</string>
+					<key>img</key>
+					<string>Meditate.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Oooooooommmm your way out of your worries.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Do the following yoga pose (child&apos;s pose)</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/V22xxybieHk</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>C&apos;mon. If even kids can do it you have no excuse not to.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Do a yoga pose (pidgeon&apos;s pose)</string>
+					<key>img</key>
+					<string>https://www.youtube.com/embed/0_zPqA65Nok</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>Extra points if you&apos;re wearing grey.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Walk down a set of stairs(and make a different sound with every step)</string>
+					<key>img</key>
+					<string>Stairs.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>House suggestions: WEE OOH! WEE OH! WEE OOH!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Give yourself a handmassage</string>
+					<key>img</key>
+					<string>Handmassage.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>We&apos;d tell you to ask someone else for it, but even we acknowledge that&apos;d be awkward.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Drip cold water on your wrists and behind your earlobes</string>
+					<key>img</key>
+					<string>ColdWater.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>The colder the better.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Make funny faces at the mirror</string>
+					<key>img</key>
+					<string>FunnyFaces.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If you don&apos;t feel gorgeous afterwards, you&apos;re doing them wrong.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Learn how to say and pronounce &quot;Hello, how are you?&quot; in japanese</string>
+					<key>img</key>
+					<string>Japanese.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Don&apos;t forget to try it out on someone.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a story for the characters in a famous painting.</string>
+					<key>img</key>
+					<string>StoryPainting.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Make it dramatic with lots of pzzaaz.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Identify images inside this abstract painting.</string>
+					<key>img</key>
+					<string>AbstractPainting.jpg</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Go crazy! The more you find, the better.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Stand up; alternate blinking and snapping your fingers</string>
+					<key>img</key>
+					<string>BlinkSnap.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Blink, snap, blink - oh darn, I missed it again.</string>
+				</dict>
+                <dict>
+                    <key>title</key>
+                    <string>Take a toe tapping break</string>
+                    <key>img</key>
+                    <string>https://www.youtube.com/embed/m0uiA6UITDw</string>
+                    <key>tipo</key>
+                    <integer>0</integer>
+                    <key>descricao</key>
+                    <string>Watch the video with a friend and toe tap each other to your heart's content.'</string>
+                </dict>
+                <dict>
+                    <key>title</key>
+                    <string>Draw a letter in the air and say its corresponding number</string>
+                    <key>img</key>
+                    <string>https://www.youtube.com/embed/ICxsQuoK_94</string>
+                    <key>tipo</key>
+                    <integer>0</integer>
+                    <key>descricao</key>
+                    <string>Reach the letter H and we'll worship you forever!</string>
+                </dict>
+				<dict>
+					<key>title</key>
+					<string>Draw on your hand</string>
+					<key>img</key>
+					<string>DrawHand.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Make it pretty.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Blow a bubble with chewing gum</string>
+					<key>img</key>
+					<string>GumBubble.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Careful not to get gum on your nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Write a poem of 4 lines</string>
+					<key>img</key>
+					<string>poem.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Beware: line one and line 3 must rime!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+			<key>np</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Write a poem of 4 lines</string>
+					<key>img</key>
+					<string>poem.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Beware: line one and line 3 must rime!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>p</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+                <dict>
+                    <key>title</key>
+                    <string>Make an origami</string>
+                    <key>img</key>
+                    <string>https://www.youtube.com/embed/A8EyLFWXV_0</string>
+                    <key>tipo</key>
+                    <integer>0</integer>
+                    <key>descricao</key>
+                    <string>Leave it on someone&apos;s desk for extra points!</string>
+                </dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and smell some flowers</string>
+					<key>img</key>
+					<string>flowers.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You&apos;re welcome, nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go out into the sun</string>
+					<key>img</key>
+					<string>sunlight.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Pretend you&apos;re a plant and get some crazy photossynthesis action.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+			<key>np</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+                <dict>
+                    <key>title</key>
+                    <string>Make an origami</string>
+                    <key>img</key>
+                    <string>https://www.youtube.com/embed/A8EyLFWXV_0</string>
+                    <key>tipo</key>
+                    <integer>0</integer>
+                    <key>descricao</key>
+                    <string>Leave it on someone&apos;s desk for extra points!</string>
+                </dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and smell some flowers</string>
+					<key>img</key>
+					<string>flowers.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You&apos;re welcome, nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go out into the sun</string>
+					<key>img</key>
+					<string>sunlight.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Pretend you&apos;re a plant and get some crazy photossynthesis action.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>life</key>
+	<dict>
+		<key>10</key>
+		<dict>
+			<key>p</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Write a poem of 4 lines</string>
+					<key>img</key>
+					<string>poem.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Beware: line one and line 3 must rime!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+			<key>np</key>
+			<array>
+				<dict>
+					<key>img</key>
+					<string>knife.jpg</string>
+					<key>tipo</key>
+					<integer>0</integer>
+					<key>descricao</key>
+					<string>Corte os pulsos</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Write a poem of 4 lines</string>
+					<key>img</key>
+					<string>poem.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Beware: line one and line 3 must rime!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+		</dict>
+		<key>20</key>
+		<dict>
+			<key>p</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Find at least one object in your house that you don&apos;t need anymore and give it away</string>
+					<key>img</key>
+					<string>packrat.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Enough pack-ratting! </string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+                    <dict>
+                        <key>title</key>
+                        <string>Make an origami</string>
+                        <key>img</key>
+                        <string>https://www.youtube.com/embed/A8EyLFWXV_0</string>
+                        <key>tipo</key>
+                        <integer>0</integer>
+                        <key>descricao</key>
+                        <string>Leave it on someone&apos;s desk for extra points!</string>
+                    </dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and hug a tree</string>
+					<key>img</key>
+					<string>hugtrees.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If the hippies felt great doing it, why not you?</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Find a dog and pet it</string>
+					<key>img</key>
+					<string>petdogs.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You pet that puppy real good. FEEL the furryness!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and smell some flowers</string>
+					<key>img</key>
+					<string>flowers.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You&apos;re welcome, nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go out into the sun</string>
+					<key>img</key>
+					<string>sunlight.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Pretend you&apos;re a plant and get some crazy photossynthesis action.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+			<key>np</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Find at least one object in your house that you don&apos;t need anymore and give it away</string>
+					<key>img</key>
+					<string>packrat.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Enough pack-ratting! </string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Create a playlist that reminds you of your last trip</string>
+					<key>img</key>
+					<string>tripplaylist.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If your last trip sucked, make a playlist to be the soundtrack of your next dream trip.</string>
+				</dict>
+                <dict>
+                    <key>title</key>
+                    <string>Make an origami</string>
+                    <key>img</key>
+                    <string>https://www.youtube.com/embed/A8EyLFWXV_0</string>
+                    <key>tipo</key>
+                    <integer>0</integer>
+                    <key>descricao</key>
+                    <string>Leave it on someone&apos;s desk for extra points!</string>
+                </dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and hug a tree</string>
+					<key>img</key>
+					<string>hugtrees.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>If the hippies felt great doing it, why not you?</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Find a dog and pet it</string>
+					<key>img</key>
+					<string>petdogs.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You pet that puppy real good. FEEL the furryness!</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go outside and smell some flowers</string>
+					<key>img</key>
+					<string>flowers.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You&apos;re welcome, nose.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Go out into the sun</string>
+					<key>img</key>
+					<string>sunlight.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>Pretend you&apos;re a plant and get some crazy photossynthesis action.</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Imagine your next big trip</string>
+					<key>img</key>
+					<string>dreamtrip.png</string>
+					<key>tipo</key>
+					<integer>1</integer>
+					<key>descricao</key>
+					<string>You set the rules. You&apos;re the boss of your dream trip, so feel free to make it as amazing and mesmerizing as you want.</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
